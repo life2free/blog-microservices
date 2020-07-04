@@ -11,7 +11,6 @@ Built a sample blog application. Utilized React to build front-end. Implmented t
 - React
 - JavaScript
 - Bootstrap
-- HTML
 - Microservices
 - Docker
 - Kubernetes
